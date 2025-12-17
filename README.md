@@ -4,7 +4,7 @@ An AI agent that writes Terraform code from natural language. It validates synta
 
 ## Demo
 
-![Demo Video](demo.mp4)
+![Demo Video]()
 
 
 https://github.com/user-attachments/assets/203f695f-5943-4b54-b689-9fc165176642
