@@ -2,6 +2,16 @@
 
 An AI agent that writes Terraform code from natural language. It validates syntax, runs security checks, and fixes its own mistakes.
 
+## Demo
+
+![Demo Video](demo.mp4)
+
+*Watch the multi-agent system generate secure Terraform code with automatic retry and fix logic.*
+
+## Screenshots
+
+<img width="672" height="556" alt="Multi-agent workflow architecture" src="https://github.com/user-attachments/assets/c109272d-ffa5-4e5a-9bb1-5464644f2d13" />
+
 ## What it does
 
 You ask for infrastructure in plain English. The system:
@@ -12,11 +22,6 @@ You ask for infrastructure in plain English. The system:
 5. If something breaks, it figures out why and tries again
 
 Built with LangGraph, Azure OpenAI, and a bunch of specialist agents working in parallel.
-
-<img width="672" height="556" alt="image" src="https://github.com/user-attachments/assets/c109272d-ffa5-4e5a-9bb1-5464644f2d13" />
-
-<img width="1440" height="841" alt="image" src="https://github.com/user-attachments/assets/968a471b-58f0-4f01-a822-aae33ada59fb" />
-
 
 ## Setup
 
