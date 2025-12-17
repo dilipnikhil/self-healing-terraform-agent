@@ -1,4 +1,4 @@
-# Kanu
+# Self-healing- AI Agent
 
 An AI agent that writes Terraform code from natural language. It validates syntax, runs security checks, and fixes its own mistakes.
 
