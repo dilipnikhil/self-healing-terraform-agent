@@ -1,0 +1,17 @@
+# Core dependencies
+langgraph>=0.2.0
+langchain-openai>=0.1.0
+langchain-core>=0.2.0
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# Web and search
+requests>=2.31.0
+duckduckgo-search>=4.0.0
+
+# Optional but recommended
+checkov>=3.0.0
+
+# Type hints
+typing-extensions>=4.8.0
+
